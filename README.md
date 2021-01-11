@@ -1,3 +1,2 @@
-# ADVEMU WEBSITE
-
-## Nothing useful here :D
+# README
+## What this site is about.
